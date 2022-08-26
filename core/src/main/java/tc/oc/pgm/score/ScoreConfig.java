@@ -5,5 +5,4 @@ public class ScoreConfig {
   public int deathScore;
   public int killScore;
   public int mercyLimit;
-  public int mercyLimitMin;
 }
